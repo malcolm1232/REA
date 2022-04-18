@@ -8,6 +8,7 @@
 - 5_Keras_Tuner.ipynb
 - 6_AutoKeras.ipynb
 - 7_Keras_Optimized.ipynb
+- 8_Tuned_Fine_Tuned_BERT.ipynb
 
 # Files Objectives And Rationales
 
@@ -30,6 +31,9 @@
 
 - 7_Keras_Optimized.ipynb : Optimized Keras Model (LSTM)
   - Tuned HyperParameters
+
+- 8_Tuned_Fine_Tuned_BERT.ipynb
+  - Fine tuning Bert for Gender Identification
 
 # Bird Eye View of Accuracy Comparison
 - 2_TfIdfCountvectorizerPipeline.ipynb : 0.5900
@@ -58,6 +62,9 @@
   - Valid acc 0.9246
   - Test acc 0.9081
 
+- 8_Tuned_Fine_Tuned_BERT.ipynb :
+  - Valid acc 0.8798
+ 
 # Docker
 ### Pulling Docker Image and running containers: 
 #### To Pull, use:
